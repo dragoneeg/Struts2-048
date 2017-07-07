@@ -1,7 +1,7 @@
 '''
 Created on 2017-7-8
-
-@author: ufo
+CVE ：CVE-2017-9791
+@author: dragonegg
 '''
 import sys
 import urllib
