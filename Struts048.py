@@ -1,6 +1,6 @@
 '''
 Created on 2017-7-8
-CVE ：CVE-2017-9791
+CVE：CVE-2017-9791
 @author: DragonEgg
 '''
 import sys
