@@ -1,10 +1,6 @@
 '''
 Created on 2017-7-8
-<<<<<<< HEAD
 CVE: CVE-2017-9791
-=======
-CVE：CVE-2017-9791
->>>>>>> 67c740b1941853897ea261fc84478f1238985d20
 @author: DragonEgg
 '''
 import sys
