@@ -1,7 +1,7 @@
 '''
 Created on 2017-7-8
 CVE ：CVE-2017-9791
-@author: dragonegg
+@author: DragonEgg
 '''
 import sys
 import urllib
