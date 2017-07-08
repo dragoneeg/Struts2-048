@@ -9,3 +9,6 @@ def Usage():
     print 'poc:'
     print '    python file.py http://1.1.1.1/struts2-showcase/integration/saveGangster.action command'
 ```
+
+# Demo
+![image](https://github.com/dragoneeg/Struts2-048/blob/master/demo.jpg)
